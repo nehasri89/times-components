@@ -96,6 +96,7 @@
     "@storybook/addon-actions": "3.1.8",
     "@storybook/react": "3.1.8",
     "@storybook/react-native": "3.1.8",
+    "@times-components/fructose": "1.0.0",
     "coveralls": "2.13.1",
     "detox": "5.5.1",
     "eslint": "3.19.0",
@@ -104,7 +105,6 @@
     "eslint-plugin-import": "2.6.1",
     "eslint-plugin-jsx-a11y": "5.1.1",
     "eslint-plugin-react": "7.1.0",
-    "@times-components/fructose": "1.0.0",
     "jest": "20.0.4",
     "lcov-result-merger": "1.2.0",
     "lerna": "2.0.0",
@@ -123,6 +123,7 @@
     "webpack": "3.3.0"
   },
   "dependencies": {
+    "@times-components/brightcove-video": "^0.2.2",
     "babel-plugin-transform-class": "0.3.0",
     "dashify": "0.2.2",
     "global": "4.3.2",
